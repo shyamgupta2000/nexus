@@ -1,1 +1,1 @@
-# Nexus – Personal Life OS > README.md
+# Nexus – Personal Life OS
